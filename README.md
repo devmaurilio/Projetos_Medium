@@ -1,2 +1,2 @@
 # projetos.medium
-Este repositório será postado projetos avançado
+Este repositório será postado projetos médio
